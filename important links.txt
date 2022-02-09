@@ -1,0 +1,7 @@
+https://www.xilinx.com/products/boards-and-kits/ek-z7-zc702-g.html#hardware
+Xilinx Zynq-7000 SoC ZC702 Evaluation Kit
+
+Repairability and servicing
+Battery Life
+Switch to on and off
+DMM not part of project cost
